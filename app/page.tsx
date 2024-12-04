@@ -15,7 +15,7 @@ export default function Home() {
         </div>
         <div className="slide">
           <Image width={4000} height={6000} alt='' src={cybertruck.src} quality={50} placeholder="empty"/>
-          <a href=''>Cybertruch</a>
+          <a href=''>Cybertruck</a>
         </div>
         <div className="slide">
           <Image width={3697} height={5546} alt='' src={challenger.src} quality={50} placeholder="empty"/>
